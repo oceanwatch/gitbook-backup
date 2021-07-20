@@ -86,7 +86,7 @@ Reflectance is affected by the concentration of pigments in the water
 
 ## Reminder: Electromagnetic radiation \(EMR\)
 
-![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2817%29%20%281%29.png)
+![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2817%29%20%281%29%20%281%29.png)
 
 ## Steps for deriving ocean color data products from space
 
@@ -131,7 +131,7 @@ The intensity of EMR at each wavelength region is stored separately in a stack o
 
 Each band or channel can be referred to by its central wavelength value or by sequential numbering \(1, 2, 3, …\) of each band from shortest to longest wavelength
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28117%29%20%281%29.png)
 
 ## Absorption Spectra and MODIS bands
 
@@ -155,7 +155,7 @@ In this case making a true color image from the addition of separate R, G and B 
 
 Intensity of the 8 Visible and Near-Infrared Bands from the SeaWiFS Sensor for the East Coast of the United States:
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/image%20%28128%29%20%281%29.png)
 
 True-Color Image ****Created from bands 2, 5, and 6 corresponding to wavelengths 443, 555 and 670 nm \(+/-10 nm\)
 
@@ -290,13 +290,13 @@ The Pedro Bank, a highly reflective shallow region southwest of Jamaica, and oth
 
 Different sensors don’t match during their periods of overlap, making it challenging to study long-term trends.
 
-![](../.gitbook/assets/image%20%28211%29.png)
+![](../.gitbook/assets/image%20%28211%29%20%281%29.png)
 
 The European Space Agency \(ESA\) started the Climate Change Initiative \(CCI\) to generate satellite-based Essential Climate Variables to allow assessing long-term trends from satellite products.
 
 The dataset is created by band-shifting and bias-correcting MERIS, MODIS and VIIRS data to match SeaWiFS data, merging the datasets and computing per-pixel uncertainty estimates.
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28184%29%20%281%29.png)
 
 More information is available at: [http://www.esa-oceancolour-cci.org/  
 ](http://www.esa-oceancolour-cci.org/
