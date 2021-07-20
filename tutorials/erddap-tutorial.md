@@ -243,7 +243,7 @@ If you need the time component, if you have a separate column for date and time,
 
 Now, identify, which ERDDAP dataset you want to work with, for example: Daily SST: [https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW\_sst\_v1\_0.graph](https://oceanwatch.pifsc.noaa.gov/erddap/griddap/CRW_sst_v1_0.graph)
 
-![](../.gitbook/assets/image%20%28301%29.png)
+![](../.gitbook/assets/image%20%28301%29%20%281%29.png)
 
 Note the dataset ID in red, the name of the variable in green, and make sure that your longitudes match the longitude format \(0-360º vs -180 to 180º\). Transform your longitudes if needed. Save your file as a CSV file. Then open it in notepad, and copy paste the data into the browser. Edit the dataset ID and variable name in the "request CSV" line, as well as any other option. Edit The "File type" for the output and click on "Convert".
 

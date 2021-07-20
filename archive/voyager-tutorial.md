@@ -30,7 +30,7 @@ In the side bar, under “satellite data”:
 
 You should now have a map for June 2002.
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 ## Map options
 

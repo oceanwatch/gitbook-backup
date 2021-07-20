@@ -141,7 +141,7 @@ Measured accurately globally since 2002 \(AMSR-E\)
 
 #### Reminder: Atmospheric windows
 
-![](../.gitbook/assets/image%20%2860%29.png)
+![](../.gitbook/assets/image%20%2834%29%20%281%29.png)
 
 **Low Intensity Signal**:   
 The intensity of microwave radiation at the top of the atmosphere is low, but we can compensate with large \(~m\) antennae for microwave instruments.

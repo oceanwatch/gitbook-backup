@@ -158,7 +158,7 @@ The intensity of EMR at each wavelength region is stored separately in a stack o
 
 Each band or channel can be referred to by its central wavelength value or by sequential numbering \(1, 2, 3, …\) of each band from shortest to longest wavelength
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28117%29%20%281%29.png)
 
 ## Higher order products
 
@@ -168,9 +168,9 @@ Below is an example of making a true color image from the addition of separate R
 
 
 
-![Intensity of the 8 Visible and Near-Infrared Bands from the SeaWiFS Sensor for the East Coast of the US](../.gitbook/assets/image%20%28128%29.png)
+![Intensity of the 8 Visible and Near-Infrared Bands from the SeaWiFS Sensor for the East Coast of the US](../.gitbook/assets/image%20%28128%29%20%281%29.png)
 
-![True-Color Image Created from bands 2, 5, and 6 ](../.gitbook/assets/image%20%2869%29.png)
+![True-Color Image Created from bands 2, 5, and 6 ](../.gitbook/assets/image%20%2838%29%20%281%29.png)
 
 Final Color Image = C1\*band2 + C2\*band5 + C3\*band6
 
