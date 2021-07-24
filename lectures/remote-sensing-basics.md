@@ -88,7 +88,7 @@ Most solar energy comes to the earth as short wavelength electromagnetic radiati
 * All radiation is influenced by the atmosphere in various ways: The sun's radiation is scattered, reflected or absorbed by particles in the atmosphere as is the radiation reflected by the Earth’s surface.
 * Satellites look at the earth surface through the atmosphere.
 
-![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2817%29%20%281%29.png)
+![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2817%29%20%281%29%20%281%29.png)
 
 
 
@@ -158,7 +158,7 @@ The intensity of EMR at each wavelength region is stored separately in a stack o
 
 Each band or channel can be referred to by its central wavelength value or by sequential numbering \(1, 2, 3, …\) of each band from shortest to longest wavelength
 
-![](../.gitbook/assets/image%20%28117%29%20%281%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28117%29%20%281%29%20%281%29%20%281%29.png)
 
 ## Higher order products
 

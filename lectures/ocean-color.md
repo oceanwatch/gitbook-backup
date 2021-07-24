@@ -86,7 +86,7 @@ Reflectance is affected by the concentration of pigments in the water
 
 ## Reminder: Electromagnetic radiation \(EMR\)
 
-![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2817%29%20%281%29%20%281%29.png)
+![Credit: Jan Yoshioka, CI](../.gitbook/assets/image%20%2817%29%20%281%29%20%281%29%20%281%29.png)
 
 ## Steps for deriving ocean color data products from space
 
@@ -131,7 +131,7 @@ The intensity of EMR at each wavelength region is stored separately in a stack o
 
 Each band or channel can be referred to by its central wavelength value or by sequential numbering \(1, 2, 3, …\) of each band from shortest to longest wavelength
 
-![](../.gitbook/assets/image%20%28117%29%20%281%29.png)
+![](../.gitbook/assets/image%20%28117%29%20%281%29%20%281%29.png)
 
 ## Absorption Spectra and MODIS bands
 
