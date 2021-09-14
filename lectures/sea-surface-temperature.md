@@ -1,6 +1,6 @@
 # Sea Surface Temperature
 
-![NASA &#x2013; MODIS Terra, May 2001](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2898%29.png)
 
 This lecture is also available as an audio-narrated [PowerPoint presentation](https://oceanwatch.pifsc.noaa.gov/files/hawaii2020/04-Sea_Surface_Temperature.pptx).
 

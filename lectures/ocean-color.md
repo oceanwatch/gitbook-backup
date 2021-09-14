@@ -1,6 +1,6 @@
 # Ocean Color
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 This lecture is also available as an audio-narrated [PowerPoint presentation](https://oceanwatch.pifsc.noaa.gov/files/hawaii2020/03-Ocean_Color.pptx).
 
