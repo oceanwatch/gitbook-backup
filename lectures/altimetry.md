@@ -1,6 +1,6 @@
 # Altimetry
 
-![NASA &#x2013; 1992-2014](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 This lecture is also available as part of an audio-narrated [PowerPoint presentation](https://oceanwatch.pifsc.noaa.gov/files/hawaii2020/05-Salinity-Winds-Altimetry.pptx).
 
