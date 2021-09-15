@@ -1,6 +1,6 @@
 # Ocean Surface Winds
 
-![QuikSCAT, 01/03/2004](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 This lecture is also available as part of an audio-narrated [PowerPoint presentation](https://oceanwatch.pifsc.noaa.gov/files/hawaii2020/05-Salinity-Winds-Altimetry.pptx).
 
