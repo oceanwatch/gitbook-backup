@@ -128,6 +128,7 @@ Let's now make a traditional temperature/salinity plot:
 
 Go to: [https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdQSdivmod3day.graph](https://coastwatch.pfeg.noaa.gov/erddap/griddap/erdQSdivmod3day.graph)
 
+* Select the "mod" variable - that's the absolute value of wind speed
 * Change the region to 10-40N, 260-300E
 * Change the date to 08/26/2005
 * Change the color scale
