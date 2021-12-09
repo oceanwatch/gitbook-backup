@@ -95,7 +95,7 @@ Following the same steps as above, create an image of the “analysed\_sst” va
 Close any graphics window.&#x20;
 
 * Double-click on “analysed\_sst” again and click ok.&#x20;
-* To zoom in on a region, type “Ctrl”. You will see that your cursor changes to a magnifying glass. While keeping the “Ctrl” key down, click and drag over a region of interest. This will generate a plot of SST for that region only. Under the "Map" tab, click on the "Fix proportions" button.
+* To zoom in on a region, type “Ctrl” ("Command" on Mac). You will see that your cursor changes to a magnifying glass. While keeping the “Ctrl” key down, click and drag over a region of interest. This will generate a plot of SST for that region only. Under the "Map" tab, click on the "Fix proportions" button.
 
 ![](<../.gitbook/assets/image (197).png>)
 
