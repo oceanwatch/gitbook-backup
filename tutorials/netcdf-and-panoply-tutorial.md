@@ -56,7 +56,7 @@ Note: There may be a lag between clicking or adjusting values, and results. It�
   * Adjust the color scale to 0.02 to 2.0.
   * In “Color Table” you have many options of color palettes. I like the “MPL\_viridis.rgb” for chlorophyll concentration, but you can choose whichever one you prefer. \
 
-* Next click on the “Map” submenu and&#x20;
+* Next click on the “Map” submenu (if you are on a Mac, it's the "Grid" submenu), and&#x20;
   * change the map projection to “Mollweide Oblique”.
   * change “Center on: Lon.” to 180º.
   * change “Grid: style” to none if you want to remove the longitude/latitude grid. \
